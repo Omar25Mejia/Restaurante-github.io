@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0px;
+}
+
+body{
+    background-color: #b8de6f;
+    width: 800px;
+    height: 400px;
+    margin:  200px 600px;
+}
+.comentario{
+    font-size: 40px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-top: 150px;
+    
+}
+.button{
+       margin-top: 800px;
+       margin-left: 600px;
+       width: 150px;
+       height: 75px;
+       font-size: 20px;
+       outline: none;
+       text-decoration: none;   
+       color: black;
+
+}
+
